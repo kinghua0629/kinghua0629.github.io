@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kinghua0629.com/CV/index.html</loc>
-    
-    <lastmod>2026-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kinghua0629.com/masonry/index.html</loc>
     
     <lastmod>2026-04-11</lastmod>
@@ -211,7 +202,7 @@
 
   <url>
     <loc>http://kinghua0629.com/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,28 +210,28 @@
   
   <url>
     <loc>http://kinghua0629.com/tags/CS50/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/tags/Announcements/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/tags/Application/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/tags/GRE-writing/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -249,28 +240,28 @@
   
   <url>
     <loc>http://kinghua0629.com/categories/CS50/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/categories/Announcements/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/categories/University-Application/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://kinghua0629.com/categories/GRE/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
